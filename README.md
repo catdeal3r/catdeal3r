@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+---
+### I'm a ui designer and artist who likes cats.
+
 <!--
 **dealerofallthecats/dealerofallthecats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
