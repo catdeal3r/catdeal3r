@@ -1,6 +1,5 @@
 # Hey 👋
 
-<p align="center">
 <img src="https://media1.tenor.com/m/FzbK72trqkgAAAAd/hi-no.gif">
 
 - I'm a ui designer and artist who likes cats.
