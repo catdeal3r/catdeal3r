@@ -4,7 +4,7 @@
 - I'm a ui designer and artist who likes cats.
 - I'm working on a custom desktop environment called Fibreglass!
 
-<p align="center">
+
 <img src="https://komarev.com/ghpvc/?username=dealerofallthecats&color=0E9C47&style=for-the-badge">
 
 ![cats](https://img.shields.io/badge/cats-are_cool-blue?color=74be88&style=for-the-badge&labelColor=1B1919)
