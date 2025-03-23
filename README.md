@@ -1,7 +1,8 @@
-## Hi there 👋
+# Hey 👋
 
----
-### I'm a ui designer and artist who likes cats.
+
+- I'm a ui designer and artist who likes cats.
+- I'm working on a custom desktop environment called Fibreglass! 
 
 <!--
 **dealerofallthecats/dealerofallthecats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
