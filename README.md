@@ -7,6 +7,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=dealerofallthecats&color=0E9C47&style=for-the-badge">
 
+![cats](https://img.shields.io/badge/cats-are_cool-blue)
 
 <!--
 **dealerofallthecats/dealerofallthecats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
