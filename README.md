@@ -4,7 +4,7 @@
 
 - I'm a ui designer and artist who likes cats.
 - I'm working on a custom desktop environment called Fibreglass!
-
+<br>
 ![cats](https://img.shields.io/badge/cats-are_cool-blue?color=74be88&style=for-the-badge&labelColor=1B1919)
 
 <!--
