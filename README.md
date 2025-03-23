@@ -2,7 +2,11 @@
 
 
 - I'm a ui designer and artist who likes cats.
-- I'm working on a custom desktop environment called Fibreglass! 
+- I'm working on a custom desktop environment called Fibreglass!
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=dealerofallthecats&color=0E9C47&style=for-the-badge">
+
 
 <!--
 **dealerofallthecats/dealerofallthecats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
