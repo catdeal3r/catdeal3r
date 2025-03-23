@@ -1,7 +1,7 @@
 # Hey 👋
 
 <p align="center">
-<img src="https://tenor.com/view/hi-no-what-black-cat-gif-1672747441262930504">
+<img src="https://media1.tenor.com/m/FzbK72trqkgAAAAd/hi-no.gif">
 
 - I'm a ui designer and artist who likes cats.
 - I'm working on a custom desktop environment called Fibreglass!
