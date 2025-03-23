@@ -1,5 +1,6 @@
 # Hey 👋
 
+![cathellooo](https://tenor.com/view/hi-no-what-black-cat-gif-1672747441262930504)
 
 - I'm a ui designer and artist who likes cats.
 - I'm working on a custom desktop environment called Fibreglass!
