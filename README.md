@@ -3,6 +3,9 @@
 
 | ![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hey%20👋&textBg=false&desc=I'm%20catdealer&descAlignY=65) |
 
+
+</div>
+
 UI designer artist who likes cats.
 I'm working on a couple projects, including a custom desktop environment called [Fibreglass](https://github.com/dealerofallthecats/fibreglass/), and a compositor called [FibrWM](https://github.com/dealerofallthecats/fibrwm).
 
@@ -15,9 +18,6 @@ I'm working on a couple projects, including a custom desktop environment called 
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-
-</div>
 
 <!--
 **dealerofallthecats/dealerofallthecats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
