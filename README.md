@@ -1,13 +1,7 @@
-# Hey 👋
-
-![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Hey%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=Hey%20👋&textBg=false&desc=I'm%20catdealer&descAlignY=65)
 
 - I'm a ui designer and artist who likes cats.
-- I'm working on a custom desktop environment called Fibreglass!
-
-<br>
-
-![cats](https://img.shields.io/badge/cats-are_cool-blue?color=74be88&style=for-the-badge&labelColor=1B1919)
+- I'm working on a couple projects, including a custom desktop environment called Fibreglass, and a compositor called FibrWM.
 
 <!--
 **dealerofallthecats/dealerofallthecats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
