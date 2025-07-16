@@ -1,6 +1,6 @@
 # Hey 👋
 
-<img src="https://media1.tenor.com/m/FzbK72trqkgAAAAd/hi-no.gif">
+![header](https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=Hey%20render&fontSize=90)
 
 - I'm a ui designer and artist who likes cats.
 - I'm working on a custom desktop environment called Fibreglass!
