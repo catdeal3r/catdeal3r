@@ -6,7 +6,7 @@
 
 </div>
 
-UI designer artist who likes cats.
+I'm a UI designer and artist whose favourite animal is the cat.
 I'm working on a couple projects, including a custom desktop environment called [Fibreglass](https://github.com/dealerofallthecats/fibreglass/), and a compositor called [FibrWM](https://github.com/dealerofallthecats/fibrwm).
 
 ### Software I've used
