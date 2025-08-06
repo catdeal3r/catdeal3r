@@ -7,7 +7,7 @@
 </div>
 
 I'm a UI designer and artist whose favourite animal is the cat.
-I'm working on a couple projects, including a custom desktop environment called [Fibreglass](https://github.com/dealerofallthecats/fibreglass/), and a compositor called [FibrWM](https://github.com/dealerofallthecats/fibrwm).
+I'm working on a couple projects, including a custom desktop environment called [Fibreglass](https://github.com/dealerofallthecats/fibreglass/), and a file sharing program called [DarkPrism](https://github.com/dealerofallthecats/darkprism).
 
 ### Software I've used
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
