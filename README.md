@@ -20,7 +20,7 @@ I'm working on a couple projects, including a custom desktop environment called 
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows%2010\/11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <!--
 **dealerofallthecats/dealerofallthecats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
