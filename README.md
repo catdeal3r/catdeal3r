@@ -12,7 +12,7 @@ I'm working on a couple projects, including a custom desktop environment called 
 ### Software I'm using
 ![Helix](https://img.shields.io/badge/Helix-%2328153e.svg?style=for-the-badge&logo=helix&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![NixOS](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=nixos&logoColor=white)
+![NixOS](https://img.shields.io/badge/NixOS-294172?style=for-the-badge&logo=nixos&logoColor=white)
 
 ### Software I've used
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
