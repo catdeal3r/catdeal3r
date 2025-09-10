@@ -6,8 +6,8 @@
 
 </div>
 
-I'm a UI designer and artist whose favourite animal is the cat.
-I'm working on a couple projects, including a custom desktop environment called [Fibreglass](https://github.com/dealerofallthecats/fibreglass/), and a file sharing program called [DarkPrism](https://github.com/dealerofallthecats/darkprism).
+I'm a UI designer and artist who likes cats.
+I'm working on a couple projects, including a custom desktop environment called [Fibreglass](https://github.com/dealerofallthecats/fibreglass/), an simpler alternative to `make` called [SCreate](https://github.com/catdeal3r/screate), and a file sharing program called [DarkPrism](https://github.com/dealerofallthecats/darkprism).
 
 ### Software I'm using
 ![Helix](https://img.shields.io/badge/Helix-%2328153e.svg?style=for-the-badge&logo=helix&logoColor=white)
