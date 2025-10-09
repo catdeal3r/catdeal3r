@@ -1,1 +1,1 @@
-• [web](https://catdeal3r.port0.org) • 
+<a href="https://catdeal3r.port0.org"> www </a> • 
